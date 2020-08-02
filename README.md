@@ -10,3 +10,6 @@ List of downloaders built by the community. If you have created a downloader or 
 
 ## Go  
 * [cyberdrop-downloader](https://github.com/DoubleHub/cyberdrop-downloader) by [@DoubleHub](https://github.com/DoubleHub)
+
+## Shell Script  
+* [cyberdrop-downloader](https://github.com/hugogomess/cyberdrop-downloader) by [@hugogomess](https://github.com/hugogomess)
