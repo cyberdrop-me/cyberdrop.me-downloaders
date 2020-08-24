@@ -13,3 +13,6 @@ List of downloaders built by the community. If you have created a downloader or 
 
 ## Shell Script  
 * [cyberdrop-downloader](https://github.com/hugogomess/cyberdrop-downloader) by [@hugogomess](https://github.com/hugogomess)
+
+## Telegram Bot
+* [@CyberdropBot](https://github.com/izqalan/Cyberdrop-Telegram) by [@izqalan](https://github.com/izqalan)
