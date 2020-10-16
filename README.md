@@ -8,6 +8,9 @@ List of downloaders built by the community. If you have created a downloader or 
 * [cyberdrop-downloader](https://www.npmjs.com/package/cyberdrop-downloader) by [@Fshy](https://gitlab.com/Fshy)
 * [cyberdrop-cli](https://www.npmjs.com/package/cyberdrop-cli) by [@izqalan](https://github.com/izqalan)
 
+## .Net 
+* [CyberDropDownloader](https://github.com/lambwheit/CyberdropDownloader) by [@lambwheit](https://github.com/lambwheit)
+
 ## Go  
 * [cyberdrop-downloader](https://github.com/DoubleHub/cyberdrop-downloader) by [@DoubleHub](https://github.com/DoubleHub)
 
@@ -16,3 +19,4 @@ List of downloaders built by the community. If you have created a downloader or 
 
 ## Telegram Bot
 * [@CyberdropBot](https://github.com/izqalan/Cyberdrop-Telegram) by [@izqalan](https://github.com/izqalan)
+
