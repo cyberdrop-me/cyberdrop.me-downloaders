@@ -23,7 +23,7 @@ List of downloaders built by the community. If you have created a downloader or 
 * [CyberdropDownloader](https://github.com/lambwheit/CyberdropDownloader) by [@lambwheit](https://github.com/lambwheit)
 
 ## Go  
-* [cyberdrop-downloader](https://github.com/DoubleHub/cyberdrop-downloader) by [@DoubleHub](https://github.com/DoubleHub)
+* [cyberdrop-downloader](https://github.com/giovanni-orciuolo/cyberdrop-downloader) by [@giovanni-orciuolo](https://github.com/giovanni-orciuolo)
 
 ## Shell Script 
 * [cyberdrop-downloader (Bash)](https://github.com/hugogomess/cyberdrop-downloader) by [@hugogomess](https://github.com/hugogomess) :heavy_check_mark:
