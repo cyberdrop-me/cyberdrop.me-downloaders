@@ -26,7 +26,7 @@ List of downloaders built by the community. If you have created a downloader or 
 * [cyberdrop-downloader](https://github.com/giovanni-orciuolo/cyberdrop-downloader) by [@giovanni-orciuolo](https://github.com/giovanni-orciuolo)
 
 ## Shell Script 
-* [cyberdrop-downloader (Bash)](https://github.com/hugogomess/cyberdrop-downloader) by [@hugogomess](https://github.com/hugogomess) :heavy_check_mark:
+* [cyberdrop-downloader (Bash)](https://github.com/sukenn/cyberdrop-downloader) by [@sukenn](https://github.com/sukenn) :heavy_check_mark:
 
 ## Telegram Bot
 * [@CyberdropBot](https://github.com/izqalan/Cyberdrop-Telegram) by [@izqalan](https://github.com/izqalan)
