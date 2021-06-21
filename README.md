@@ -7,8 +7,9 @@
 # cyberdrop.me downloaders
 List of downloaders built by the community. If you have created a downloader or tool for the site please submit a PR with it
 
-## Windows GUI App
-* [cy-client](https://github.com/izqalan/cy-client) by [@izqalan](https://github.com/izqalan) :heavy_check_mark:
+## Windows Apps
+* [gallery-dl (CLI)](https://github.com/mikf/gallery-dl) by [@mikf](https://github.com/mikf) :heavy_check_mark:
+* [cy-client (GUI)](https://github.com/izqalan/cy-client) by [@izqalan](https://github.com/izqalan) :heavy_check_mark:
 
 ## Python
 * [CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) by [@Jules-WinnfieldX](https://github.com/Jules-WinnfieldX) :heavy_check_mark:
