@@ -20,6 +20,7 @@ List of downloaders built by the community. If you have created a downloader or 
 ## NodeJS  
 * [cyberdrop-cli](https://github.com/izqalan/CyberDrop-cli) by [@izqalan](https://github.com/izqalan) :heavy_check_mark:
 * [cyberdrop-downloader](https://www.npmjs.com/package/cyberdrop-downloader) by [@Fshy](https://gitlab.com/Fshy)
+* [cydrop](https://github.com/CaianKardoso/cydrop) by [@CaianKardoso](CaianKardoso)
 
 ## .NET
 * [CyberdropDownloader](https://github.com/lambwheit/CyberdropDownloader) by [@lambwheit](https://github.com/lambwheit)
