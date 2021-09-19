@@ -17,8 +17,7 @@ List of downloaders built by the community. If you have created a downloader or 
 * [Amenly_CyberDrop](https://github.com/Amenly/CyberDrop) by [@Amenly](https://github.com/Amenly)
 * [CyberDropMe-dl (GUI)](https://github.com/magnusjwatson2786/CyberDropMe-dl) by [@magnusjwatson2786](https://github.com/magnusjwatson2786)
 
-## NodeJS  
-* [cyberdrop-cli](https://github.com/izqalan/CyberDrop-cli) by [@izqalan](https://github.com/izqalan) :heavy_check_mark:
+## NodeJS 
 * [cyberdrop-downloader](https://www.npmjs.com/package/cyberdrop-downloader) by [@Fshy](https://gitlab.com/Fshy)
 
 ## .NET
@@ -33,8 +32,6 @@ List of downloaders built by the community. If you have created a downloader or 
 ## Shell Script 
 * [cyberdrop-downloader (Bash)](https://github.com/sukenn/cyberdrop-downloader) by [@sukenn](https://github.com/sukenn) :heavy_check_mark:
 
-## Telegram Bot
-* [@CyberdropBot](https://github.com/izqalan/Cyberdrop-Telegram) by [@izqalan](https://github.com/izqalan)
 
 
 
