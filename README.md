@@ -26,6 +26,7 @@ List of downloaders built by the community. If you have created a downloader or 
 
 ## Go  
 * [cyberdrop-downloader](https://github.com/giovanni-orciuolo/cyberdrop-downloader) by [@giovanni-orciuolo](https://github.com/giovanni-orciuolo)
+* [cyberdrop-go](https://github.com/Dx55/cyberdropdl-go) by [@Dx55](https://github.com/Dx55)
 
 ## Rust  
 * [cyberdrop-dl](https://github.com/wmw9/cyberdrop-dl) by [@wmw](https://github.com/wmw9)
