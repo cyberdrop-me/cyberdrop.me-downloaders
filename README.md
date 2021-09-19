@@ -15,6 +15,7 @@ List of downloaders built by the community. If you have created a downloader or 
 * [CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) by [@Jules-WinnfieldX](https://github.com/Jules-WinnfieldX) :heavy_check_mark:
 * [cyberdrop-downloader](https://github.com/GuraGaoGao/cyberdrop-downloader) by [@GuraGaoGao](https://github.com/GuraGaoGao)
 * [Amenly_CyberDrop](https://github.com/Amenly/CyberDrop) by [@Amenly](https://github.com/Amenly)
+* [CyberDropMe-dl (GUI)](https://github.com/magnusjwatson2786/CyberDropMe-dl) by [@magnusjwatson2786](https://github.com/magnusjwatson2786)
 
 ## NodeJS  
 * [cyberdrop-cli](https://github.com/izqalan/CyberDrop-cli) by [@izqalan](https://github.com/izqalan) :heavy_check_mark:
