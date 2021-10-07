@@ -57,6 +57,7 @@ These tools have installers ready to go. Visit the 'Releases' page and download 
 
 ### Shell Script 
 * [cyberdrop-downloader (Bash)](https://github.com/sukenn/cyberdrop-downloader) by [@sukenn](https://github.com/sukenn) :heavy_check_mark:
+* [cyberdrop_bash](https://github.com/idolmatster/various_downloaders/tree/main/cyberdrop_bash) by [@idolmatster](https://github.com/idolmatster)
 
 ### Telegram Bot
 * [@CyberdropBot](https://github.com/izqalan/Cyberdrop-Telegram) by [@izqalan](https://github.com/izqalan)
