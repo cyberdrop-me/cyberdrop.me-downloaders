@@ -22,14 +22,17 @@ These tools have installers ready to go. Visit the 'Releases' page and download 
 * [[GUI] cy-client](https://github.com/izqalan/cy-client) by [@izqalan](https://github.com/izqalan) :heavy_check_mark: ([**Screenshot**](https://i.imgur.com/DjMSoeF.png))
 * [[GUI] CyberDropMe-dl](https://github.com/magnusjwatson2786/CyberDropMe-dl) by [@magnusjwatson2786](https://github.com/magnusjwatson2786) ([**Screenshot**](https://raw.githubusercontent.com/magnusjwatson2786/CyberDropMe-dl/master/screenshots/img1.png))
 * [[GUI] CyberdropDownloader](https://github.com/lambwheit/CyberdropDownloader) by [@lambwheit](https://github.com/lambwheit)
+* [[GUI] SCD](https://github.com/Anequit/SCD) by [@anequit](https://github.com/anequit) ([**Screenshot**](https://raw.githubusercontent.com/Anequit/SCD/main/assets/preview%201.png))
 
 ### OSX (Apple)
 * [[CLI] cyberdrop-dl](https://github.com/wmw9/cyberdrop-dl) by [@wmw](https://github.com/wmw9) ([**Screenshot**](https://user-images.githubusercontent.com/4693125/125909983-6306d4e3-e377-41f4-aaf6-f03134203613.gif))
 * [[GUI] cy-client](https://github.com/izqalan/cy-client) by [@izqalan](https://github.com/izqalan) :heavy_check_mark: ([**Screenshot**](https://raw.githubusercontent.com/magnusjwatson2786/CyberDropMe-dl/master/screenshots/img1.png))
+* [[GUI] SCD](https://github.com/Anequit/SCD) by [@anequit](https://github.com/anequit) ([**Screenshot**](https://raw.githubusercontent.com/Anequit/SCD/main/assets/preview%201.png))
 
 ### Linux
 * [[CLI] cyberdrop-dl](https://github.com/wmw9/cyberdrop-dl) by [@wmw](https://github.com/wmw9) ([**Screenshot**](https://user-images.githubusercontent.com/4693125/125909983-6306d4e3-e377-41f4-aaf6-f03134203613.gif))
 * [[GUI] cy-client](https://github.com/izqalan/cy-client) by [@izqalan](https://github.com/izqalan) :heavy_check_mark: ([**Screenshot**](https://raw.githubusercontent.com/magnusjwatson2786/CyberDropMe-dl/master/screenshots/img1.png))
+* [[GUI] SCD](https://github.com/Anequit/SCD) by [@anequit](https://github.com/anequit) ([**Screenshot**](https://raw.githubusercontent.com/Anequit/SCD/main/assets/preview%201.png))
 
 ---
 ## List of languages
@@ -47,6 +50,7 @@ These tools have installers ready to go. Visit the 'Releases' page and download 
 
 ### .NET
 * [CyberdropDownloader](https://github.com/lambwheit/CyberdropDownloader) by [@lambwheit](https://github.com/lambwheit)
+* [SCD](https://github.com/Anequit/SCD) by [@anequit](https://github.com/anequit) ([**Screenshot**](https://raw.githubusercontent.com/Anequit/SCD/main/assets/preview%201.png))
 
 ### Go  
 * [cyberdrop-downloader](https://github.com/giovanni-orciuolo/cyberdrop-downloader) by [@giovanni-orciuolo](https://github.com/giovanni-orciuolo)
