@@ -29,6 +29,7 @@ These tools have installers ready to go. Visit the 'Releases' page and download 
 * [[CLI] cyberdrop-dl](https://github.com/wmw9/cyberdrop-dl) by [@wmw](https://github.com/wmw9) ([**Screenshot**](https://user-images.githubusercontent.com/4693125/125909983-6306d4e3-e377-41f4-aaf6-f03134203613.gif))
 * [[GUI] cy-client](https://github.com/izqalan/cy-client) by [@izqalan](https://github.com/izqalan) :heavy_check_mark: ([**Screenshot**](https://raw.githubusercontent.com/magnusjwatson2786/CyberDropMe-dl/master/screenshots/img1.png))
 * [[GUI] SCD](https://github.com/Anequit/SCD) by [@anequit](https://github.com/anequit) ([**Screenshot**](https://raw.githubusercontent.com/Anequit/SCD/main/assets/preview%201.png))
+* [[GUI] Cybutter](https://github.com/notFaad/Cybutter) by [@notFaad](https://github.com/notFaad) ([**Screenshot**](https://raw.githubusercontent.com/notFaad/Cybutter/master/images/downloader.png))
 
 ### Linux
 * [[CLI] cyberdrop-dl](https://github.com/wmw9/cyberdrop-dl) by [@wmw](https://github.com/wmw9) ([**Screenshot**](https://user-images.githubusercontent.com/4693125/125909983-6306d4e3-e377-41f4-aaf6-f03134203613.gif))
@@ -60,6 +61,9 @@ These tools have installers ready to go. Visit the 'Releases' page and download 
 ### Rust  
 * [cyberdrop-dl](https://github.com/wmw9/cyberdrop-dl) by [@wmw](https://github.com/wmw9) ([**Screenshot**](https://user-images.githubusercontent.com/4693125/125909983-6306d4e3-e377-41f4-aaf6-f03134203613.gif))
 
+### Dart
+* [Cybutter](https://github.com/notFaad/Cybutter) by [@notFaad](https://github.com/notFaad) ([**Screenshot**](https://raw.githubusercontent.com/notFaad/Cybutter/master/images/downloader.png))
+  
 ### Shell Script 
 * [cyberdrop-downloader (Bash)](https://github.com/sukenn/cyberdrop-downloader) by [@sukenn](https://github.com/sukenn) :heavy_check_mark:
 * [cyberdrop_bash](https://github.com/idolmatster/various_downloaders/tree/main/cyberdrop_bash) by [@idolmatster](https://github.com/idolmatster)
