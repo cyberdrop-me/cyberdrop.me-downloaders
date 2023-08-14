@@ -23,6 +23,7 @@ These tools have installers ready to go. Visit the 'Releases' page and download 
 * [[GUI] cy-client](https://github.com/izqalan/cy-client) by [@izqalan](https://github.com/izqalan) :heavy_check_mark: ([**Screenshot**](https://i.imgur.com/DjMSoeF.png))
 * [[GUI] CyberDropMe-dl](https://github.com/magnusjwatson2786/CyberDropMe-dl) by [@magnusjwatson2786](https://github.com/magnusjwatson2786) ([**Screenshot**](https://raw.githubusercontent.com/magnusjwatson2786/CyberDropMe-dl/master/screenshots/img1.png))
 * [[GUI] SCD](https://github.com/Anequit/SCD) by [@anequit](https://github.com/anequit) ([**Screenshot**](https://raw.githubusercontent.com/Anequit/SCD/main/assets/preview%201.png))
+* [[GUI] Cybutter](https://github.com/notFaad/Cybutter) by [@notFaad](https://github.com/notFaad) ([**Screenshot**](https://raw.githubusercontent.com/notFaad/Cybutter/master/images/downloader.png))
 
 
 ### OSX (Apple)
